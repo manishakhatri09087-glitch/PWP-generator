@@ -1,0 +1,13 @@
+The testbench checks three different duty cycles.
+| Duty Cycle Input | Approximate Duty Cycle |
+| ---------------: | ---------------------: |
+|              `4` |                    25% |
+|              `8` |                    50% |
+|             `12` |                    75% |
+
+25% duty cycle
+PWM: ███░░░░░░░░░░░░
+50% duty cycle
+PWM: ████████░░░░░░░░
+75% duty cycle
+PWM: ████████████░░░░
